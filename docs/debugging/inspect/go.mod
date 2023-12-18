@@ -17,6 +17,6 @@ require (
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/minio/pkg v1.1.20 // indirect
 	github.com/philhofer/fwd v1.1.1 // indirect
-	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
